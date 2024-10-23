@@ -1,6 +1,7 @@
 # Averages of Iris Features
 
-[Dataset: ](https://archive.ics.uci.edu/dataset/53/iris)
+[Dataset](https://archive.ics.uci.edu/dataset/53/iris)
+
 _author_: Edward Zhu
 
     This program returns the averages of the features of iris flowers.
